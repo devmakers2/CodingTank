@@ -1,3 +1,18 @@
+/*
+ * enunciado:
+ * Calcule a média aritmética de n valores a digitados.
+ *
+ * O programa deve pedir ao usuário para digitar uma nota de 0 a 10.
+ * Caso o usuário informe o valor -1, o programa deve calcular e exibir
+ * a média, além de informar a quantidade de notas digitadas.
+ *
+ * extra:
+ * Caso o usuário informe um valor maior do que 10, o programa deve
+ * exibir uma mensagem informando que é um valor inválido.
+ * Tal valor não deve ser considerado para o cálculo da média.
+ *
+ */
+
 package codingtank.aula03;
 
 import java.util.InputMismatchException;
